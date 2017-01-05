@@ -1,11 +1,7 @@
 # Bhadrawahi_Bible
 Bhadrawahi Bible (CC by SA)
 
-<<<<<<< HEAD
 New Testament (27 books) available now.
-=======
-New Testament (27 books) available.
->>>>>>> c39146a344e77cd7b5fe5fe1aa1d1233c4ca9547
 
 Read Bible, Download Android/Desktop Apps
 
